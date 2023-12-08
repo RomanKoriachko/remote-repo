@@ -8,6 +8,3 @@ line 7
 clone line 8
 clone line 9
 line 10
-line 8
-line 9
-20. folder1 git_1 line 10
