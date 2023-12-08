@@ -1,10 +1,13 @@
 updated line 1
 updated line 2
-line 3
-new line 4
+folder-1 change line 3
+folder-1 change new line 4
 line 5
 new line 6
 line 7
+clone line 8
+clone line 9
+line 10
 line 8
 line 9
-line 10
+20. folder1 git_1 line 10
